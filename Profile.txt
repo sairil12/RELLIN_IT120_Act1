@@ -5,3 +5,9 @@ Gender: Female
 Age: 20
 Birthdate: December 17, 2004
 Contacts: 09380341160
+Birth Place: At-Home, Humilog RTR Agusan del Norte
+Religion: Roman Catholic
+Father's Name: Ramonilo Rellin
+Father's Occupation: Farmer
+Mother's Name: Hazel Ormega
+Mother's Occupation: DH
