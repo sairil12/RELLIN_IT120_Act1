@@ -14,7 +14,7 @@ git add Education.txt
 git commit -m "Add college, program, year level to Education.txt"
 # Branch 3
 git checkout main
-git cheackout -b RELLIN_B3
+git checkout -b RELLIN_B3
 git add Background.txt
 git rm -f Test.py
 git commit -m "Update Background.txt and remove Test.py"
